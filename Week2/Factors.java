@@ -6,6 +6,7 @@ public class Factors {
 
         int n = scanner.nextInt();
         System.out.println("Enter a number");
+        System.out.println("Output");
         printFactors(n);
         scanner.close();
 
